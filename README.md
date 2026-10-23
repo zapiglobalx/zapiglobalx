@@ -1,24 +1,24 @@
 # Z-API Omni
 
-Uma API para WhatsApp, Messenger, Instagram e Telegram numa assinatura só. Na mesma conta, você escolhe entre a conexão por QR e a API oficial da Meta.
+One API for WhatsApp, Messenger, Instagram, and Telegram in a single subscription. Within the same account, you can choose between a QR connection and Meta's official API.
 
-Esta conta é do time técnico da Z-API. Aqui publicamos o código aberto que gira em torno do Omni.
+This account belongs to the Z-API technical team. We publish the open-source projects around Omni here.
 
-## O que sai daqui
+## What we publish
 
-- **Skills para agentes.** Instruções e ferramentas para que agentes de IA (Claude, Cursor e afins) leiam a documentação do Omni e chamem a API sem adivinhar.
-- **Integrações.** Nós e conectores para ferramentas de automação, começando pelo n8n.
-- **Exemplos.** Webhooks, envio de mensagens e gestão de canais, no formato que dá para copiar.
+- **Agent skills.** Instructions and tools that help AI agents, including Claude and Cursor, read the Omni documentation and call the API without guessing.
+- **Integrations.** Nodes and connectors for automation tools, starting with n8n.
+- **Examples.** Webhooks, message sending, and channel management in a format you can copy.
 
-Os repositórios ainda estão sendo preparados. Quando cada um ficar público, ele aparece fixado neste perfil.
+The repositories are being prepared. As each becomes public, it will be pinned to this profile.
 
 ## Links
 
-- Site: https://www.omni.z-api.io
-- Documentação (PT, EN, ES): https://developer.omni.z-api.io
-- Índice da documentação para LLMs: https://developer.omni.z-api.io/llms.txt
-- Painel: https://app.omni.z-api.io
+- Website: https://www.omni.z-api.io
+- Documentation (English, Portuguese, Spanish): https://developer.omni.z-api.io
+- Documentation index for LLMs: https://developer.omni.z-api.io/llms.txt
+- Dashboard: https://app.omni.z-api.io
 
 ---
 
-<sub>WhatsApp, Messenger e Instagram são marcas da Meta Platforms, Inc. Telegram é marca da Telegram FZ-LLC. A Z-API não é afiliada a essas empresas. A conexão por QR não é um produto oficial da Meta; a API oficial da Meta é oferecida como opção na mesma conta.</sub>
+<sub>WhatsApp, Messenger, and Instagram are trademarks of Meta Platforms, Inc. Telegram is a trademark of Telegram FZ-LLC. Z-API is not affiliated with these companies. The QR connection is not an official Meta product; Meta's official API is offered as an option within the same account.</sub>
